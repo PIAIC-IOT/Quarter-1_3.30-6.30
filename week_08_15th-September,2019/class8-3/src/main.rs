@@ -18,7 +18,7 @@ let user1 = build_user(String::from("uk@yaho"),String::from("ukasha"));// callin
 
 fn build_user(email: String, username: String) -> User { //defining function with two parameters and return type is itself a struct
     
-    User {
+    User {          // creating instance of struct using function not variables which we were doing before
         email:email,
         username:username,
         active: true,
