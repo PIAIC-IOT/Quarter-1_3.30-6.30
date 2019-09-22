@@ -1,3 +1,16 @@
+////////////////////////////////
+/// creating new Struct and making its instances
+
+
+#[derive(Debug)]
+struct User{
+    name: String,
+    email: String,
+    phone_no: u32,
+    city: String,
+    online_status: bool,
+}
+
 fn main() {
 
 let user1 = User{
@@ -12,7 +25,7 @@ let user2 = User{
     name: String::from("jawwad"),
     email: String::from("jawwad@yahoo.com"),
     phone_no: 5565656,
-    ..user1
+    ..user1 // short init technique
 };
 
 let user3 = User{
@@ -27,11 +40,4 @@ println!("{:#?}",user2);
 
 }
 
-#[derive(Debug)]
-struct User{
-    name: String,
-    email: String,
-    phone_no: u32,
-    city: String,
-    online_status: bool,
-}
+
