@@ -1,0 +1,7 @@
+[package]
+name = "classwork"
+version = "0.1.0"
+authors = ["Mohammad Inzamam Malik <malikasinger1@gmail.com>"]
+edition = "2018"
+
+[dependencies]
