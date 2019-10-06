@@ -1,0 +1,12 @@
+1. Uzair Saeed (10/10) 11:37 PM
+// 2. Abdullah Awan (7/10)
+// 3. Muhammad Abdullah (7/10)
+4. Muhammad Maaz Qureshi (9/10)
+5. Syed Muhammad Daniyal Suhail(10/10)
+6. Muhammad Mustafa (10/10)
+7. Baqar Hasan (9.5/10) *didnt implement method
+8. Syed Abu Bakar(10/10) *didnt have to implement Option<T>
+9. Asad Hussain (10/10)
+10.AMMAD SOHAIL KARAR (10/10)
+11. SYED MUHAMMAD YAWAR ABBAS(10/10) last question good
+12. Zakariya shuja (10/10) 
