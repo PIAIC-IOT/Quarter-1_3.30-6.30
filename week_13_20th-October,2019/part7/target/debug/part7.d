@@ -1,0 +1,1 @@
+/home/ukasha/Desktop/PIAIC-IoT-Repos/Quarter-1_3.30-6.30/week_13_20th-October,2019/part7/target/debug/part7: /home/ukasha/Desktop/PIAIC-IoT-Repos/Quarter-1_3.30-6.30/week_13_20th-October,2019/part7/src/main.rs
