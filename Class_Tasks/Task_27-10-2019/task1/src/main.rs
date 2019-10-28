@@ -1,3 +1,5 @@
+// TASK BY DANYAL AHMED
+
 fn main(){
 
 // function 2 arguments string and int 
